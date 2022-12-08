@@ -1,7 +1,16 @@
-# spam-classifier
-Supervised learning models that accurately classify which SMS messages are spam.
+# Message Classification
+Classifying SMS messages as *spam* or *ham* using multiple supervised learning algorithms.
 
-Requirements: 
+## Data
+
+The data was retrieved from the link https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection and was saved in the original format and with the original names in a directory that is then used in the code.
+
+The dataset contains 5572 text messages which are labelled as *ham* or *spam*. The messages are not cleaned, and the dataset is not balanced because it contains 4825 *ham* messages and 747 *spam* messages.
+
+## Execution
+The project has a jupyter notebook spam-classifier.ipynb which is used for the implementation of this project. 
+
+## Requirements: 
 - Python3
 - Jupyter Notebook
-- python libraries listed in the notebook
+- Python libraries listed in the notebook
