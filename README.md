@@ -19,4 +19,4 @@ The project has a jupyter notebook spam-classifier.ipynb which is used for the i
 - Python3
 - Jupyter Notebook
 - WordNet lexical database
-- Python libraries listed in the notebook
+- Python libraries listed in the notebook (available in the requirements.txt file)
