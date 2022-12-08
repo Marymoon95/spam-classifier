@@ -1,2 +1,7 @@
 # spam-classifier
-Supervised learning model that accurately classifies which SMS messages are spam.
+Supervised learning models that accurately classify which SMS messages are spam.
+
+Requirements: 
+- Python3
+- Jupyter Notebook
+- python libraries listed in the notebook
